@@ -20,3 +20,4 @@ based on applicant details like number of dependents, income, loan amount, loan 
 ➡️joblib
 
 
+
